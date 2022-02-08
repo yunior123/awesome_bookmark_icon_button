@@ -27,7 +27,8 @@ Example
 
 ```dart
       BookMarkIconButton(
-          child: Text('data'),
+          isSaved:true,
+          onPressed:(){}
         ),
 ```
 
